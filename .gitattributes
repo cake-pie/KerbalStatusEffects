@@ -1,0 +1,5 @@
+* text=auto
+*.cfg text
+*.md text
+*.version text
+*.cs text diff=csharp
